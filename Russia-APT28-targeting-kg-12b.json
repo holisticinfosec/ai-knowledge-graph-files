@@ -1,0 +1,692 @@
+[
+  {
+    "subject": "threat actor",
+    "predicate": "targets",
+    "object": "research and analysis",
+    "chunk": 1
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "impersonates",
+    "object": "web access",
+    "chunk": 1
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "impersonates",
+    "object": "google",
+    "chunk": 1
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "impersonates",
+    "object": "vpn portals",
+    "chunk": 1
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "targets",
+    "object": "entities",
+    "chunk": 1
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "blamed for",
+    "object": "tv5monde broadcasting station",
+    "chunk": 1
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "exploited",
+    "object": "services",
+    "chunk": 1
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "targeted",
+    "object": "people",
+    "chunk": 1
+  },
+  {
+    "subject": "people",
+    "predicate": "associated with",
+    "object": "turkish energy agency",
+    "chunk": 1
+  },
+  {
+    "subject": "people",
+    "predicate": "associated with",
+    "object": "think tanks",
+    "chunk": 1
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "targeted",
+    "object": "entities",
+    "chunk": 1
+  },
+  {
+    "subject": "entities",
+    "predicate": "located in",
+    "object": "central asian countries",
+    "chunk": 1
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "used",
+    "object": "web pages",
+    "chunk": 1
+  },
+  {
+    "subject": "web pages",
+    "predicate": "impersonating",
+    "object": "web access",
+    "chunk": 1
+  },
+  {
+    "subject": "web pages",
+    "predicate": "impersonating",
+    "object": "google",
+    "chunk": 1
+  },
+  {
+    "subject": "web pages",
+    "predicate": "impersonating",
+    "object": "vpn portals",
+    "chunk": 1
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "relies on",
+    "object": "free hosting",
+    "chunk": 1
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "relies on",
+    "object": "services",
+    "chunk": 1
+  },
+  {
+    "subject": "services",
+    "predicate": "includes",
+    "object": "webhook",
+    "chunk": 1
+  },
+  {
+    "subject": "services",
+    "predicate": "includes",
+    "object": "infinityfree",
+    "chunk": 1
+  },
+  {
+    "subject": "services",
+    "predicate": "includes",
+    "object": "webhook services",
+    "chunk": 1
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "deployed",
+    "object": "web access",
+    "chunk": 2
+  },
+  {
+    "subject": "content",
+    "predicate": "capture",
+    "object": "user data theft",
+    "chunk": 2
+  },
+  {
+    "subject": "content",
+    "predicate": "manage",
+    "object": "redirections",
+    "chunk": 2
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "used",
+    "object": "link shortening",
+    "chunk": 2
+  },
+  {
+    "subject": "group",
+    "predicate": "employed",
+    "object": "webhook",
+    "chunk": 2
+  },
+  {
+    "subject": "webhook",
+    "predicate": "relying on",
+    "object": "html",
+    "chunk": 2
+  },
+  {
+    "subject": "webhook",
+    "predicate": "load",
+    "object": "pdf lures",
+    "chunk": 2
+  },
+  {
+    "subject": "victim",
+    "predicate": "redirected to",
+    "object": "webhook",
+    "chunk": 2
+  },
+  {
+    "subject": "html",
+    "predicate": "designed to",
+    "object": "user data theft",
+    "chunk": 2
+  },
+  {
+    "subject": "html",
+    "predicate": "send",
+    "object": "victim",
+    "chunk": 2
+  },
+  {
+    "subject": "victim",
+    "predicate": "redirected to",
+    "object": "pdf lures",
+    "chunk": 2
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "deployed",
+    "object": "portal",
+    "chunk": 2
+  },
+  {
+    "subject": "portal",
+    "predicate": "containing",
+    "object": "turkish-language text",
+    "chunk": 2
+  },
+  {
+    "subject": "portal",
+    "predicate": "targeting",
+    "object": "turkish scientists and researchers",
+    "chunk": 2
+  },
+  {
+    "subject": "group",
+    "predicate": "used",
+    "object": "pdf lures",
+    "chunk": 2
+  },
+  {
+    "subject": "group",
+    "predicate": "used",
+    "object": "credential harvesting",
+    "chunk": 2
+  },
+  {
+    "subject": "group",
+    "predicate": "deployed",
+    "object": "password reset page",
+    "chunk": 2
+  },
+  {
+    "subject": "web pages",
+    "predicate": "hosted on",
+    "object": "infinityfree",
+    "chunk": 2
+  },
+  {
+    "subject": "victim",
+    "predicate": "redirected to",
+    "object": "portal",
+    "chunk": 2
+  },
+  {
+    "subject": "portal",
+    "predicate": "belonging to",
+    "object": "think tanks",
+    "chunk": 2
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "hosting",
+    "object": "web pages",
+    "chunk": 2
+  },
+  {
+    "subject": "web pages",
+    "predicate": "using",
+    "object": "code",
+    "chunk": 2
+  },
+  {
+    "subject": "code",
+    "predicate": "similar to",
+    "object": "web pages",
+    "chunk": 2
+  },
+  {
+    "subject": "web pages",
+    "predicate": "redirected to",
+    "object": "login",
+    "chunk": 2
+  },
+  {
+    "subject": "domain exploitation",
+    "predicate": "uses",
+    "object": "code",
+    "chunk": 3
+  },
+  {
+    "subject": "organization",
+    "predicate": "located in",
+    "object": "central asian countries",
+    "chunk": 3
+  },
+  {
+    "subject": "integrator",
+    "predicate": "located in",
+    "object": "central asian countries",
+    "chunk": 3
+  },
+  {
+    "subject": "research and analysis",
+    "predicate": "discovered",
+    "object": "web pages",
+    "chunk": 3
+  },
+  {
+    "subject": "web pages",
+    "predicate": "hosted on",
+    "object": "domain exploitation",
+    "chunk": 3
+  },
+  {
+    "subject": "form",
+    "predicate": "harvested",
+    "object": "credential harvesting",
+    "chunk": 3
+  },
+  {
+    "subject": "web pages",
+    "predicate": "sent to",
+    "object": "domain exploitation",
+    "chunk": 3
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "abusing",
+    "object": "webhook services",
+    "chunk": 3
+  },
+  {
+    "subject": "webhook services",
+    "predicate": "enables",
+    "object": "users",
+    "chunk": 3
+  },
+  {
+    "subject": "web pages",
+    "predicate": "using",
+    "object": "webhook services",
+    "chunk": 3
+  },
+  {
+    "subject": "group",
+    "predicate": "suggests",
+    "object": "continued abuse",
+    "chunk": 3
+  },
+  {
+    "subject": "group",
+    "predicate": "abuses",
+    "object": "free hosting",
+    "chunk": 3
+  },
+  {
+    "subject": "group",
+    "predicate": "abuses",
+    "object": "services",
+    "chunk": 3
+  },
+  {
+    "subject": "vpn portals",
+    "predicate": "uses",
+    "object": "portal",
+    "inferred": true
+  },
+  {
+    "subject": "webhook services",
+    "predicate": "uses",
+    "object": "webhook",
+    "inferred": true
+  },
+  {
+    "subject": "research and analysis",
+    "predicate": "involves",
+    "object": "turkish scientists and researchers",
+    "inferred": true
+  },
+  {
+    "subject": "turkish scientists and researchers",
+    "predicate": "studies",
+    "object": "research and analysis",
+    "inferred": true
+  },
+  {
+    "subject": "turkish energy agency",
+    "predicate": "employs",
+    "object": "turkish scientists and researchers",
+    "inferred": true
+  },
+  {
+    "subject": "web access",
+    "predicate": "impersonates",
+    "object": "web pages",
+    "inferred": true
+  },
+  {
+    "subject": "webhook",
+    "predicate": "relies on",
+    "object": "services",
+    "inferred": true
+  },
+  {
+    "subject": "portal",
+    "predicate": "deployed",
+    "object": "threat actor",
+    "inferred": true
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "targets",
+    "object": "vpn portals",
+    "inferred": true
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "deployed via portal",
+    "object": "turkish scientists and researchers",
+    "inferred": true
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "deployed via portal",
+    "object": "think tanks",
+    "inferred": true
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "deployed via portal",
+    "object": "turkish-language text",
+    "inferred": true
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "hosting via web",
+    "object": "login",
+    "inferred": true
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "hosting via web",
+    "object": "code",
+    "inferred": true
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "hosting via web",
+    "object": "infinityfree",
+    "inferred": true
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "hosting via web",
+    "object": "domain exploitation",
+    "inferred": true
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "relies on via",
+    "object": "webhook",
+    "inferred": true
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "relies on via",
+    "object": "infinityfree",
+    "inferred": true
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "abusing via webhook",
+    "object": "users",
+    "inferred": true
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "targeted via entities",
+    "object": "central asian countries",
+    "inferred": true
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "targeted via people",
+    "object": "think tanks",
+    "inferred": true
+  },
+  {
+    "subject": "threat actor",
+    "predicate": "targeted via people",
+    "object": "turkish energy agency",
+    "inferred": true
+  },
+  {
+    "subject": "web pages",
+    "predicate": "using via webhook",
+    "object": "users",
+    "inferred": true
+  },
+  {
+    "subject": "services",
+    "predicate": "includes via webhook",
+    "object": "html",
+    "inferred": true
+  },
+  {
+    "subject": "services",
+    "predicate": "includes via webhook",
+    "object": "pdf lures",
+    "inferred": true
+  },
+  {
+    "subject": "services",
+    "predicate": "includes via webhook",
+    "object": "users",
+    "inferred": true
+  },
+  {
+    "subject": "group",
+    "predicate": "abuses via services",
+    "object": "infinityfree",
+    "inferred": true
+  },
+  {
+    "subject": "group",
+    "predicate": "abuses via services",
+    "object": "webhook services",
+    "inferred": true
+  },
+  {
+    "subject": "group",
+    "predicate": "employed via webhook",
+    "object": "html",
+    "inferred": true
+  },
+  {
+    "subject": "webhook",
+    "predicate": "relying on via",
+    "object": "victim",
+    "inferred": true
+  },
+  {
+    "subject": "webhook",
+    "predicate": "relying on via",
+    "object": "user data theft",
+    "inferred": true
+  },
+  {
+    "subject": "victim",
+    "predicate": "redirected to via",
+    "object": "turkish scientists and researchers",
+    "inferred": true
+  },
+  {
+    "subject": "victim",
+    "predicate": "redirected to via",
+    "object": "think tanks",
+    "inferred": true
+  },
+  {
+    "subject": "victim",
+    "predicate": "redirected to via",
+    "object": "turkish-language text",
+    "inferred": true
+  },
+  {
+    "subject": "victim",
+    "predicate": "redirected to via",
+    "object": "html",
+    "inferred": true
+  },
+  {
+    "subject": "html",
+    "predicate": "send via victim",
+    "object": "portal",
+    "inferred": true
+  },
+  {
+    "subject": "html",
+    "predicate": "send via victim",
+    "object": "webhook",
+    "inferred": true
+  },
+  {
+    "subject": "html",
+    "predicate": "send via victim",
+    "object": "pdf lures",
+    "inferred": true
+  },
+  {
+    "subject": "code",
+    "predicate": "similar to via",
+    "object": "login",
+    "inferred": true
+  },
+  {
+    "subject": "code",
+    "predicate": "similar to via",
+    "object": "vpn portals",
+    "inferred": true
+  },
+  {
+    "subject": "code",
+    "predicate": "similar to via",
+    "object": "web access",
+    "inferred": true
+  },
+  {
+    "subject": "code",
+    "predicate": "similar to via",
+    "object": "webhook services",
+    "inferred": true
+  },
+  {
+    "subject": "code",
+    "predicate": "similar to via",
+    "object": "infinityfree",
+    "inferred": true
+  },
+  {
+    "subject": "code",
+    "predicate": "similar to via",
+    "object": "google",
+    "inferred": true
+  },
+  {
+    "subject": "code",
+    "predicate": "similar to via",
+    "object": "domain exploitation",
+    "inferred": true
+  },
+  {
+    "subject": "domain exploitation",
+    "predicate": "uses via code",
+    "object": "web pages",
+    "inferred": true
+  },
+  {
+    "subject": "research and analysis",
+    "predicate": "discovered via web",
+    "object": "login",
+    "inferred": true
+  },
+  {
+    "subject": "research and analysis",
+    "predicate": "discovered via web",
+    "object": "vpn portals",
+    "inferred": true
+  },
+  {
+    "subject": "research and analysis",
+    "predicate": "discovered via web",
+    "object": "web access",
+    "inferred": true
+  },
+  {
+    "subject": "research and analysis",
+    "predicate": "discovered via web",
+    "object": "webhook services",
+    "inferred": true
+  },
+  {
+    "subject": "research and analysis",
+    "predicate": "discovered via web",
+    "object": "code",
+    "inferred": true
+  },
+  {
+    "subject": "research and analysis",
+    "predicate": "discovered via web",
+    "object": "infinityfree",
+    "inferred": true
+  },
+  {
+    "subject": "research and analysis",
+    "predicate": "discovered via web",
+    "object": "google",
+    "inferred": true
+  },
+  {
+    "subject": "research and analysis",
+    "predicate": "discovered via web",
+    "object": "domain exploitation",
+    "inferred": true
+  },
+  {
+    "subject": "vpn portals",
+    "predicate": "is type of",
+    "object": "portal",
+    "inferred": true
+  },
+  {
+    "subject": "webhook services",
+    "predicate": "related to",
+    "object": "webhook",
+    "inferred": true
+  },
+  {
+    "subject": "turkish scientists and researchers",
+    "predicate": "related to",
+    "object": "turkish energy agency",
+    "inferred": true
+  }
+]

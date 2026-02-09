@@ -1,0 +1,33 @@
+Russia’s APT28 Targeting Energy Research, Defense Collaboration Entities
+APT28 was seen impersonating popular webmail and VPN services, including Microsoft OWA, Google, and Sophos VPN portals.
+Active since at least 2004 and also known as BlueDelta, Fancy Bear, Forest Blizzard, Sednit, and Sofacy, APT28 has been linked to the Russian General Staff Main Intelligence Directorate (GRU).
+
+The hacking group is known for targeting energy, government, military, and media entities in the US and Europe, and was blamed last year for targeting the TV5Monde broadcasting station, and for exploiting mail servers since September 2023.
+
+Last year, an APT28 credential harvesting activity targeted people associated with a Turkish energy and nuclear research agency and a European think tank, as well as entities in North Macedonia and Uzbekistan.
+
+As part of the attacks, the threat actor used phishing pages impersonating Microsoft Outlook Web Access (OWA), Google, and Sophos VPN portals. After entering their credentials, the victims were redirected to the legitimate domains.
+
+The campaigns relied heavily on free hosting and tunneling services, such as Webhook[.]site, InfinityFree, Byet Internet Services, and Ngrok, to host phishing content, capture user data, and manage redirections.
+
+In February 2025, APT28 deployed a Microsoft OWA phishing page and used the ShortURL link-shortening service for the first-stage redirection.
+
+As part of the attack, the group employed a webhook relying on HTML to load a PDF lure document in the browser for two seconds. The victim was then redirected to a second webhook hosting the spoofed OWA login page.
+
+The HTML element was also designed to capture victim information using a JavaScript function and send it to the hidden form element’s webhook. The victim was then redirected to the legitimate PDF document.
+
+In July, the APT deployed a spoofed OWA login portal containing Turkish-language text and targeting Turkish scientists and researchers. A similar PDF lure and credential-harvesting mechanism was used.
+
+In June, the hacking group deployed a spoofed Sophos VPN password reset page hosted on InfinityFree infrastructure. After entering their credentials, the victim was redirected to the legitimate portal belonging to an EU think tank.
+
+In September, the threat actor was seen hosting two spoofed OWA expired password pages on an InfinityFree domain, using JavaScript code similar to the one on the Sophos VPN phishing page.
+
+The pages redirected to the login pages of a military organization in North Macedonia and of an IT integrator in Uzbekistan, respectively.
+
+In April, Recorded Future discovered a spoofed Google password reset page in Portuguese, hosted on a free apex domain from Byet Internet Services. An HTML form on the page harvested credentials and sent them to a page hosted on ngrok-free[.]app.
+
+APT28 was abusing Ngrok’s “free service that enables users to connect servers behind a firewall to a proxy server and expose that server to the internet without changing firewall rules.”
+
+A second Google credential-harvesting page, also in Portuguese and using the Ngrok URL to capture credentials, was hosted on a domain associated with InfinityFree.
+
+The group’s demonstrated ability to adapt its infrastructure and rebrand credential-harvesting pages suggests it will continue to abuse free hosting, tunneling, and link-shortening services to reduce operational costs and obscure attribution.

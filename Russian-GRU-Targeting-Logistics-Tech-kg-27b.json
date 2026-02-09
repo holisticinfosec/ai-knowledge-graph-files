@@ -1,0 +1,3182 @@
+[
+  {
+    "subject": "threat actors",
+    "predicate": "conducts",
+    "object": "web related attacks",
+    "chunk": 1
+  },
+  {
+    "subject": "web related attacks",
+    "predicate": "uses",
+    "object": "tpps",
+    "chunk": 1
+  },
+  {
+    "subject": "tpps",
+    "predicate": "includes",
+    "object": "password spraying",
+    "chunk": 1
+  },
+  {
+    "subject": "tpps",
+    "predicate": "includes",
+    "object": "email related attacks",
+    "chunk": 1
+  },
+  {
+    "subject": "tpps",
+    "predicate": "includes",
+    "object": "exchange modification",
+    "chunk": 1
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "increase",
+    "object": "operations",
+    "chunk": 1
+  },
+  {
+    "subject": "operations",
+    "predicate": "for",
+    "object": "influence operations",
+    "chunk": 1
+  },
+  {
+    "subject": "operations",
+    "predicate": "for",
+    "object": "destruction",
+    "chunk": 1
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "involved in",
+    "object": "influence operations",
+    "chunk": 1
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "targets",
+    "object": "transportation & Logistics",
+    "chunk": 2
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "targets",
+    "object": "adjacent technologies",
+    "chunk": 1
+  },
+  {
+    "subject": "adjacent technologies",
+    "predicate": "involved in",
+    "object": "aid delivery",
+    "chunk": 1
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "targets",
+    "object": "cameras",
+    "chunk": 1
+  },
+  {
+    "subject": "cameras",
+    "predicate": "located at",
+    "object": "border crossings",
+    "chunk": 1
+  },
+  {
+    "subject": "cameras",
+    "predicate": "monitor",
+    "object": "transportation & Logistics",
+    "chunk": 1
+  },
+  {
+    "subject": "security frameworks & Methodologies",
+    "predicate": "version",
+    "object": "17",
+    "chunk": 1
+  },
+  {
+    "subject": "security frameworks & Methodologies",
+    "predicate": "version",
+    "object": "1.0",
+    "chunk": 1
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "targets",
+    "object": "web related attacks",
+    "chunk": 2
+  },
+  {
+    "subject": "web related attacks",
+    "predicate": "targets",
+    "object": "transportation & Logistics",
+    "chunk": 2
+  },
+  {
+    "subject": "web related attacks",
+    "predicate": "targets",
+    "object": "adjacent technologies",
+    "chunk": 2
+  },
+  {
+    "subject": "web related attacks",
+    "predicate": "targets",
+    "object": "government & Organizations",
+    "chunk": 2
+  },
+  {
+    "subject": "web related attacks",
+    "predicate": "targets",
+    "object": "privacy & entities",
+    "chunk": 2
+  },
+  {
+    "subject": "transportation & Logistics",
+    "predicate": "includes",
+    "object": "air",
+    "chunk": 2
+  },
+  {
+    "subject": "transportation & Logistics",
+    "predicate": "includes",
+    "object": "sea",
+    "chunk": 2
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "targets",
+    "object": "defense industry",
+    "chunk": 2
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "targets",
+    "object": "air traffic management",
+    "chunk": 2
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "targets",
+    "object": "air",
+    "chunk": 2
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "targets",
+    "object": "rtsp server",
+    "chunk": 2
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "identifies",
+    "object": "cloud & Infrastructure",
+    "chunk": 2
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "conducts",
+    "object": "network reconnaissance",
+    "chunk": 2
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "exploits",
+    "object": "trust relationships",
+    "chunk": 2
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "attempts",
+    "object": "credential access",
+    "chunk": 2
+  },
+  {
+    "subject": "countries",
+    "predicate": "includes",
+    "object": "geographic & Political Entities",
+    "chunk": 2
+  },
+  {
+    "subject": "countries",
+    "predicate": "includes",
+    "object": "united states",
+    "chunk": 2
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "uses",
+    "object": "credential access",
+    "chunk": 8
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "uses",
+    "object": "malware & Exploitation",
+    "chunk": 7
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "uses",
+    "object": "email related attacks",
+    "chunk": 2
+  },
+  {
+    "subject": "credential access",
+    "predicate": "access entities",
+    "object": "targeted entities",
+    "chunk": 3
+  },
+  {
+    "subject": "malware & Exploitation",
+    "predicate": "access entities",
+    "object": "targeted entities",
+    "chunk": 3
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "deliver malware",
+    "object": "malware & Exploitation",
+    "chunk": 3
+  },
+  {
+    "subject": "credential access",
+    "predicate": "causes",
+    "object": "malware & Exploitation",
+    "chunk": 3
+  },
+  {
+    "subject": "cybersecurity vulnerabilities",
+    "predicate": "causes",
+    "object": "malware & Exploitation",
+    "chunk": 3
+  },
+  {
+    "subject": "malware & Exploitation",
+    "predicate": "infrastructure",
+    "object": "internet-facing",
+    "chunk": 3
+  },
+  {
+    "subject": "corporate vpn",
+    "predicate": "exploits",
+    "object": "cybersecurity vulnerabilities",
+    "chunk": 3
+  },
+  {
+    "subject": "sql injection",
+    "predicate": "exploits",
+    "object": "infrastructure",
+    "chunk": 3
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "abused",
+    "object": "cybersecurity vulnerabilities",
+    "chunk": 3
+  },
+  {
+    "subject": "brands",
+    "predicate": "abused",
+    "object": "cybersecurity vulnerabilities",
+    "chunk": 3
+  },
+  {
+    "subject": "models",
+    "predicate": "abused",
+    "object": "devices",
+    "chunk": 3
+  },
+  {
+    "subject": "devices",
+    "predicate": "facilitate",
+    "object": "operations",
+    "chunk": 3
+  },
+  {
+    "subject": "proxy malicious activity",
+    "predicate": "via",
+    "object": "devices",
+    "chunk": 3
+  },
+  {
+    "subject": "geolocation",
+    "predicate": "in proximity",
+    "object": "target",
+    "chunk": 3
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations",
+    "object": "threat actors",
+    "chunk": 3
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "exhibit",
+    "object": "characteristics",
+    "chunk": 3
+  },
+  {
+    "subject": "web related attacks",
+    "predicate": "discloses",
+    "object": "characteristics",
+    "chunk": 3
+  },
+  {
+    "subject": "russian gru",
+    "predicate": "conducting",
+    "object": "web related attacks",
+    "chunk": 3
+  },
+  {
+    "subject": "blend",
+    "predicate": "employs",
+    "object": "infrastructure",
+    "chunk": 3
+  },
+  {
+    "subject": "tor",
+    "predicate": "includes",
+    "object": "infrastructure",
+    "chunk": 3
+  },
+  {
+    "subject": "commercial vpn",
+    "predicate": "includes",
+    "object": "infrastructure",
+    "chunk": 3
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "rotated",
+    "object": "addresses",
+    "chunk": 3
+  },
+  {
+    "subject": "connections",
+    "predicate": "made via",
+    "object": "tls",
+    "chunk": 3
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "include",
+    "object": "network reconnaissance",
+    "chunk": 3
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "leading to",
+    "object": "web related attacks",
+    "chunk": 4
+  },
+  {
+    "subject": "web related attacks",
+    "predicate": "impersonating",
+    "object": "government entities",
+    "chunk": 4
+  },
+  {
+    "subject": "web related attacks",
+    "predicate": "impersonating",
+    "object": "cloud email providers",
+    "chunk": 4
+  },
+  {
+    "subject": "web related attacks",
+    "predicate": "hosted on",
+    "object": "third-party services",
+    "chunk": 4
+  },
+  {
+    "subject": "web related attacks",
+    "predicate": "hosted on",
+    "object": "soho devices",
+    "chunk": 4
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "written in",
+    "object": "native language",
+    "chunk": 4
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "sent to",
+    "object": "recipient",
+    "chunk": 4
+  },
+  {
+    "subject": "web related attacks",
+    "predicate": "verifying",
+    "object": "ip-geolocation",
+    "chunk": 4
+  },
+  {
+    "subject": "web related attacks",
+    "predicate": "verifying",
+    "object": "browser fingerprints",
+    "chunk": 4
+  },
+  {
+    "subject": "infrastructure",
+    "predicate": "provides",
+    "object": "government & Organizations",
+    "chunk": 4
+  },
+  {
+    "subject": "infrastructure",
+    "predicate": "provides",
+    "object": "captcha relaying",
+    "chunk": 4
+  },
+  {
+    "subject": "endpoints",
+    "predicate": "redirecting to",
+    "object": "benign url",
+    "chunk": 4
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "used",
+    "object": "malware & Exploitation",
+    "chunk": 4
+  },
+  {
+    "subject": "malware & Exploitation",
+    "predicate": "including",
+    "object": "masepie",
+    "chunk": 4
+  },
+  {
+    "subject": "operating systems & Tools",
+    "predicate": "using",
+    "object": "bat",
+    "chunk": 4
+  },
+  {
+    "subject": "operating systems & Tools",
+    "predicate": "using",
+    "object": "vbscript",
+    "chunk": 4
+  },
+  {
+    "subject": "web related attacks",
+    "predicate": "weaponized",
+    "object": "cybersecurity vulnerabilities",
+    "chunk": 4
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "weaponized",
+    "object": "credential access",
+    "chunk": 5
+  },
+  {
+    "subject": "credential access",
+    "predicate": "cve",
+    "object": "cybersecurity vulnerabilities",
+    "chunk": 5
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "used",
+    "object": "roundcube cves",
+    "chunk": 5
+  },
+  {
+    "subject": "roundcube cves",
+    "predicate": "includes",
+    "object": "cybersecurity vulnerabilities",
+    "chunk": 5
+  },
+  {
+    "subject": "roundcube cves",
+    "predicate": "includes",
+    "object": "cve-2023-23397",
+    "chunk": 5
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "execute",
+    "object": "shell commands",
+    "chunk": 5
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "gain access",
+    "object": "credential access",
+    "chunk": 5
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "retrieve",
+    "object": "data exfiltration & Security",
+    "chunk": 5
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "leveraged",
+    "object": "cybersecurity vulnerabilities",
+    "chunk": 5
+  },
+  {
+    "subject": "cybersecurity vulnerabilities",
+    "predicate": "cve",
+    "object": "cve-2020-35730",
+    "chunk": 5
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "sent",
+    "object": "email related attacks",
+    "chunk": 5
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "embedded",
+    "object": "network reconnaissance",
+    "chunk": 5
+  },
+  {
+    "subject": "network reconnaissance",
+    "predicate": "downloads",
+    "object": "malicious archive",
+    "chunk": 5
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "conducted",
+    "object": "network reconnaissance",
+    "chunk": 5
+  },
+  {
+    "subject": "network reconnaissance",
+    "predicate": "targets",
+    "object": "additional targets",
+    "chunk": 5
+  },
+  {
+    "subject": "network reconnaissance",
+    "predicate": "identifies",
+    "object": "cybersecurity department",
+    "chunk": 5
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "used",
+    "object": "native commands",
+    "chunk": 5
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "used",
+    "object": "network reconnaissance",
+    "chunk": 5
+  },
+  {
+    "subject": "network reconnaissance",
+    "predicate": "includes",
+    "object": "malware & Exploitation",
+    "chunk": 5
+  },
+  {
+    "subject": "network reconnaissance",
+    "predicate": "includes",
+    "object": "psexec",
+    "chunk": 5
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "move",
+    "object": "laterally",
+    "chunk": 5
+  },
+  {
+    "subject": "malware & Exploitation",
+    "predicate": "used as",
+    "object": "operating systems & Tools",
+    "chunk": 6
+  },
+  {
+    "subject": "malware & Exploitation",
+    "predicate": "moves laterally",
+    "object": "cloud & Infrastructure",
+    "chunk": 6
+  },
+  {
+    "subject": "malware & Exploitation",
+    "predicate": "uses",
+    "object": "operating systems & Tools",
+    "chunk": 6
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "accesses",
+    "object": "rdp",
+    "chunk": 6
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "dumps",
+    "object": "ntds.dit",
+    "chunk": 6
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "uses",
+    "object": "active directory commands",
+    "chunk": 6
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "uses",
+    "object": "certipy",
+    "chunk": 6
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "uses",
+    "object": "adexplorer.exe",
+    "chunk": 6
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "installed",
+    "object": "operating systems & Tools",
+    "chunk": 6
+  },
+  {
+    "subject": "accessed files",
+    "predicate": "archived in",
+    "object": "operating systems & Tools",
+    "chunk": 6
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "exfiltrates",
+    "object": "openssh binary",
+    "chunk": 6
+  },
+  {
+    "subject": "incident response investigations",
+    "predicate": "reveal",
+    "object": "folder permissions & Access Control",
+    "chunk": 6
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "locate",
+    "object": "office 365 users",
+    "chunk": 6
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "set up",
+    "object": "email collection",
+    "chunk": 6
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "used",
+    "object": "folder permissions & Access Control",
+    "chunk": 6
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "enrolls",
+    "object": "government & Organizations",
+    "chunk": 6
+  },
+  {
+    "subject": "credential access",
+    "predicate": "has",
+    "object": "folder permissions & Access Control",
+    "chunk": 7
+  },
+  {
+    "subject": "credential access",
+    "predicate": "enrolls in",
+    "object": "government & Organizations",
+    "chunk": 7
+  },
+  {
+    "subject": "government & Organizations",
+    "predicate": "increase",
+    "object": "trust-level",
+    "chunk": 7
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "uses",
+    "object": "operating systems & Tools",
+    "chunk": 7
+  },
+  {
+    "subject": "operating systems & Tools",
+    "predicate": "retrieves",
+    "object": "plaintext passwords",
+    "chunk": 7
+  },
+  {
+    "subject": "operating systems & Tools",
+    "predicate": "uses",
+    "object": "group policy preferences",
+    "chunk": 7
+  },
+  {
+    "subject": "operating systems & Tools",
+    "predicate": "enumerates",
+    "object": "cloud & Infrastructure",
+    "chunk": 7
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "conducts",
+    "object": "malware & Exploitation",
+    "chunk": 7
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "uses",
+    "object": "wevtutil utility",
+    "chunk": 7
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "deletes",
+    "object": "event logs",
+    "chunk": 7
+  },
+  {
+    "subject": "credential access",
+    "predicate": "access",
+    "object": "sensitive information",
+    "chunk": 7
+  },
+  {
+    "subject": "credential access",
+    "predicate": "access",
+    "object": "transportation & Logistics",
+    "chunk": 7
+  },
+  {
+    "subject": "credential access",
+    "predicate": "contains",
+    "object": "train schedules",
+    "chunk": 7
+  },
+  {
+    "subject": "credential access",
+    "predicate": "contains",
+    "object": "shipping manifests",
+    "chunk": 7
+  },
+  {
+    "subject": "malware & Exploitation",
+    "predicate": "ranges from",
+    "object": "credential access",
+    "chunk": 7
+  },
+  {
+    "subject": "malware & Exploitation",
+    "predicate": "ranges from",
+    "object": "advanced techniques",
+    "chunk": 7
+  },
+  {
+    "subject": "malware & Exploitation",
+    "predicate": "ranges from",
+    "object": "data exfiltration & Security",
+    "chunk": 7
+  },
+  {
+    "subject": "operating systems & Tools",
+    "predicate": "facilitates",
+    "object": "malware & Exploitation",
+    "chunk": 7
+  },
+  {
+    "subject": "variants",
+    "predicate": "tied to",
+    "object": "web related attacks",
+    "chunk": 7
+  },
+  {
+    "subject": "variants",
+    "predicate": "targets",
+    "object": "logistics sector victims",
+    "chunk": 7
+  },
+  {
+    "subject": "variants",
+    "predicate": "includes",
+    "object": "malware & Exploitation",
+    "chunk": 7
+  },
+  {
+    "subject": "variants",
+    "predicate": "includes",
+    "object": "masepie",
+    "chunk": 7
+  },
+  {
+    "subject": "variants",
+    "predicate": "includes",
+    "object": "cloud & Infrastructure",
+    "chunk": 7
+  },
+  {
+    "subject": "masepie",
+    "predicate": "targets",
+    "object": "transportation & Logistics",
+    "chunk": 8
+  },
+  {
+    "subject": "masepie",
+    "predicate": "targets",
+    "object": "it entities",
+    "chunk": 8
+  },
+  {
+    "subject": "cloud & Infrastructure",
+    "predicate": "targets",
+    "object": "transportation & Logistics",
+    "chunk": 8
+  },
+  {
+    "subject": "malware & Exploitation",
+    "predicate": "targets",
+    "object": "transportation & Logistics",
+    "chunk": 8
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "uses",
+    "object": "scheduled tasks",
+    "chunk": 8
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "uses",
+    "object": "run keys",
+    "chunk": 8
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "places",
+    "object": "network reconnaissance",
+    "chunk": 8
+  },
+  {
+    "subject": "network reconnaissance",
+    "predicate": "located in",
+    "object": "startup folder",
+    "chunk": 8
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "establishes",
+    "object": "advanced techniques",
+    "chunk": 8
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "uses",
+    "object": "data exfiltration & Security",
+    "chunk": 8
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "uses",
+    "object": "powershell commands",
+    "chunk": 8
+  },
+  {
+    "subject": "powershell commands",
+    "predicate": "prepares",
+    "object": "zip archives",
+    "chunk": 8
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "uses",
+    "object": "exchange web services",
+    "chunk": 8
+  },
+  {
+    "subject": "exchange web services",
+    "predicate": "abuses",
+    "object": "folder permissions & Access Control",
+    "chunk": 8
+  },
+  {
+    "subject": "credential access",
+    "predicate": "abuses",
+    "object": "cloud & Infrastructure",
+    "chunk": 8
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "queries",
+    "object": "ews queries",
+    "chunk": 8
+  },
+  {
+    "subject": "ews queries",
+    "predicate": "collects",
+    "object": "email related attacks",
+    "chunk": 8
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "exfiltrates",
+    "object": "data exfiltration & Security",
+    "chunk": 8
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "uses",
+    "object": "infrastructure",
+    "chunk": 8
+  },
+  {
+    "subject": "infrastructure",
+    "predicate": "located in",
+    "object": "geographic proximity",
+    "chunk": 8
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "sent received",
+    "object": "data exfiltration & Security",
+    "chunk": 9
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "used infrastructure",
+    "object": "geographic proximity",
+    "chunk": 9
+  },
+  {
+    "subject": "gaps",
+    "predicate": "allowed collection",
+    "object": "data exfiltration & Security",
+    "chunk": 9
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "targeted cameras",
+    "object": "cameras",
+    "chunk": 9
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "used services",
+    "object": "traffic cams",
+    "chunk": 9
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "targeted RTSP servers",
+    "object": "cameras",
+    "chunk": 9
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "attempted enumeration",
+    "object": "devices",
+    "chunk": 9
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "attempted access",
+    "object": "camera feeds",
+    "chunk": 9
+  },
+  {
+    "subject": "cloud & Infrastructure",
+    "predicate": "sent requests",
+    "object": "rtsp describe",
+    "chunk": 9
+  },
+  {
+    "subject": "request",
+    "predicate": "destined for",
+    "object": "it services",
+    "chunk": 9
+  },
+  {
+    "subject": "request",
+    "predicate": "included credentials",
+    "object": "credential access",
+    "chunk": 9
+  },
+  {
+    "subject": "request",
+    "predicate": "included credentials",
+    "object": "generic",
+    "chunk": 9
+  },
+  {
+    "subject": "request",
+    "predicate": "includes",
+    "object": "credential access",
+    "chunk": 10
+  },
+  {
+    "subject": "credential access",
+    "predicate": "for",
+    "object": "cloud & Infrastructure",
+    "chunk": 10
+  },
+  {
+    "subject": "cloud & Infrastructure",
+    "predicate": "includes",
+    "object": "credential access",
+    "chunk": 10
+  },
+  {
+    "subject": "credential access",
+    "predicate": "likely",
+    "object": "malware & Exploitation",
+    "chunk": 10
+  },
+  {
+    "subject": "credential access",
+    "predicate": "to",
+    "object": "devices",
+    "chunk": 10
+  },
+  {
+    "subject": "plaintext passwords",
+    "predicate": "targets countries",
+    "object": "united states",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "attacks countries",
+    "object": "united states",
+    "inferred": true
+  },
+  {
+    "subject": "cybersecurity department",
+    "predicate": "monitors countries",
+    "object": "united states",
+    "inferred": true
+  },
+  {
+    "subject": "plaintext passwords",
+    "predicate": "uses version",
+    "object": "1.0",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "relies on",
+    "object": "17",
+    "inferred": true
+  },
+  {
+    "subject": "plaintext passwords",
+    "predicate": "targets location",
+    "object": "geolocation",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "uses geolocation",
+    "object": "target",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "impacts target",
+    "object": "target",
+    "inferred": true
+  },
+  {
+    "subject": "plaintext passwords",
+    "predicate": "redirects to",
+    "object": "benign url",
+    "inferred": true
+  },
+  {
+    "subject": "endpoints",
+    "predicate": "hosts",
+    "object": "plaintext passwords",
+    "inferred": true
+  },
+  {
+    "subject": "it entities",
+    "predicate": "targets",
+    "object": "benign url",
+    "inferred": true
+  },
+  {
+    "subject": "countries",
+    "predicate": "uses",
+    "object": "security frameworks & Methodologies version 17",
+    "inferred": true
+  },
+  {
+    "subject": "countries",
+    "predicate": "employs",
+    "object": "1.0",
+    "inferred": true
+  },
+  {
+    "subject": "united states",
+    "predicate": "utilizes",
+    "object": "security frameworks & Methodologies version 17",
+    "inferred": true
+  },
+  {
+    "subject": "countries",
+    "predicate": "impacts",
+    "object": "geolocation",
+    "inferred": true
+  },
+  {
+    "subject": "countries",
+    "predicate": "contains",
+    "object": "target",
+    "inferred": true
+  },
+  {
+    "subject": "united states",
+    "predicate": "impacts",
+    "object": "geolocation",
+    "inferred": true
+  },
+  {
+    "subject": "united states",
+    "predicate": "uses",
+    "object": "benign url",
+    "inferred": true
+  },
+  {
+    "subject": "countries",
+    "predicate": "hosts",
+    "object": "benign url",
+    "inferred": true
+  },
+  {
+    "subject": "geographic & Political Entities",
+    "predicate": "hosts",
+    "object": "benign url",
+    "inferred": true
+  },
+  {
+    "subject": "security frameworks & Methodologies version 17",
+    "predicate": "protects target",
+    "object": "target",
+    "inferred": true
+  },
+  {
+    "subject": "geolocation",
+    "predicate": "monitors target",
+    "object": "target",
+    "inferred": true
+  },
+  {
+    "subject": "security frameworks & Methodologies version 1.0",
+    "predicate": "tracks target",
+    "object": "target",
+    "inferred": true
+  },
+  {
+    "subject": "security frameworks & Methodologies version 17",
+    "predicate": "protects",
+    "object": "endpoints",
+    "inferred": true
+  },
+  {
+    "subject": "security frameworks & Methodologies version 1.0",
+    "predicate": "blocks",
+    "object": "benign url",
+    "inferred": true
+  },
+  {
+    "subject": "endpoints",
+    "predicate": "targets",
+    "object": "benign url",
+    "inferred": true
+  },
+  {
+    "subject": "target",
+    "predicate": "redirects to",
+    "object": "benign url",
+    "inferred": true
+  },
+  {
+    "subject": "geolocation",
+    "predicate": "proximate to",
+    "object": "endpoints",
+    "inferred": true
+  },
+  {
+    "subject": "target",
+    "predicate": "uses",
+    "object": "endpoints",
+    "inferred": true
+  },
+  {
+    "subject": "cybersecurity department",
+    "predicate": "exploits",
+    "object": "cybersecurity vulnerabilities",
+    "inferred": true
+  },
+  {
+    "subject": "it entities",
+    "predicate": "impacts",
+    "object": "privacy & entities",
+    "inferred": true
+  },
+  {
+    "subject": "it entities",
+    "predicate": "overlaps",
+    "object": "government entities",
+    "inferred": true
+  },
+  {
+    "subject": "it entities",
+    "predicate": "utilizes",
+    "object": "it services",
+    "inferred": true
+  },
+  {
+    "subject": "it entities",
+    "predicate": "targets",
+    "object": "targeted entities",
+    "inferred": true
+  },
+  {
+    "subject": "tor",
+    "predicate": "used by",
+    "object": "threat actors",
+    "inferred": true
+  },
+  {
+    "subject": "active directory commands",
+    "predicate": "utilizes",
+    "object": "powershell commands",
+    "inferred": true
+  },
+  {
+    "subject": "active directory commands",
+    "predicate": "used with",
+    "object": "native commands",
+    "inferred": true
+  },
+  {
+    "subject": "active directory commands",
+    "predicate": "used with",
+    "object": "shell commands",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "uses",
+    "object": "tor",
+    "inferred": true
+  },
+  {
+    "subject": "active directory commands",
+    "predicate": "impacts",
+    "object": "it entities",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "targets via transportation",
+    "object": "sea",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "places via network",
+    "object": "additional targets",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "places via network",
+    "object": "cybersecurity department",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "places via network",
+    "object": "startup folder",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "places via network",
+    "object": "malicious archive",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "places via network",
+    "object": "psexec",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "sent via email",
+    "object": "recipient",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "sent via email",
+    "object": "native language",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "uses via credential",
+    "object": "train schedules",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "uses via credential",
+    "object": "sensitive information",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "uses via credential",
+    "object": "targeted entities",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "uses via credential",
+    "object": "shipping manifests",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "targeted RTSP servers",
+    "object": "border crossings",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "targets via web",
+    "object": "ip-geolocation",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "targets via web",
+    "object": "cloud email providers",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "targets via web",
+    "object": "soho devices",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "targets via web",
+    "object": "tpps",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "targets via web",
+    "object": "browser fingerprints",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "targets via web",
+    "object": "third-party services",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "targets via web",
+    "object": "government entities",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "indirectly targets",
+    "object": "privacy & entities",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "uses via infrastructure",
+    "object": "captcha relaying",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "identifies via cloud",
+    "object": "rtsp describe",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "uses via powershell",
+    "object": "zip archives",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "uses via malware",
+    "object": "masepie",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "uses via malware",
+    "object": "internet-facing",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "uses via malware",
+    "object": "targeted entities",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "increase via operations",
+    "object": "destruction",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "used via roundcube",
+    "object": "cve-2023-23397",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "enrolls via government",
+    "object": "trust-level",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "uses via operating",
+    "object": "plaintext passwords",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "indirectly uses",
+    "object": "group policy preferences",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "uses via operating",
+    "object": "bat",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "uses via operating",
+    "object": "vbscript",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "targets via adjacent",
+    "object": "aid delivery",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "leveraged via cybersecurity",
+    "object": "cve-2020-35730",
+    "inferred": true
+  },
+  {
+    "subject": "web related attacks",
+    "predicate": "targets via transportation",
+    "object": "sea",
+    "inferred": true
+  },
+  {
+    "subject": "web related attacks",
+    "predicate": "targets via transportation",
+    "object": "air",
+    "inferred": true
+  },
+  {
+    "subject": "web related attacks",
+    "predicate": "uses via tpps",
+    "object": "exchange modification",
+    "inferred": true
+  },
+  {
+    "subject": "web related attacks",
+    "predicate": "uses via tpps",
+    "object": "email related attacks",
+    "inferred": true
+  },
+  {
+    "subject": "web related attacks",
+    "predicate": "uses via tpps",
+    "object": "password spraying",
+    "inferred": true
+  },
+  {
+    "subject": "web related attacks",
+    "predicate": "targets via government",
+    "object": "trust-level",
+    "inferred": true
+  },
+  {
+    "subject": "web related attacks",
+    "predicate": "targets via adjacent",
+    "object": "aid delivery",
+    "inferred": true
+  },
+  {
+    "subject": "web related attacks",
+    "predicate": "weaponized via cybersecurity",
+    "object": "cve-2020-35730",
+    "inferred": true
+  },
+  {
+    "subject": "web related attacks",
+    "predicate": "weaponized via cybersecurity",
+    "object": "malware & Exploitation",
+    "inferred": true
+  },
+  {
+    "subject": "tpps",
+    "predicate": "includes via email",
+    "object": "recipient",
+    "inferred": true
+  },
+  {
+    "subject": "tpps",
+    "predicate": "includes via email",
+    "object": "web related attacks",
+    "inferred": true
+  },
+  {
+    "subject": "tpps",
+    "predicate": "includes via email",
+    "object": "native language",
+    "inferred": true
+  },
+  {
+    "subject": "tpps",
+    "predicate": "includes via email",
+    "object": "malware & Exploitation",
+    "inferred": true
+  },
+  {
+    "subject": "tpps",
+    "predicate": "includes via email",
+    "object": "network reconnaissance",
+    "inferred": true
+  },
+  {
+    "subject": "tpps",
+    "predicate": "includes via email",
+    "object": "data exfiltration & Security",
+    "inferred": true
+  },
+  {
+    "subject": "cameras",
+    "predicate": "monitor via transportation",
+    "object": "sea",
+    "inferred": true
+  },
+  {
+    "subject": "cameras",
+    "predicate": "monitor via transportation",
+    "object": "air",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "access via transportation",
+    "object": "sea",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "access via transportation",
+    "object": "air",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "enrolls in via",
+    "object": "trust-level",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "wevtutil utility",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "traffic cams",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "openssh binary",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "run keys",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "network reconnaissance",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "data exfiltration & Security",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "email related attacks",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "office 365 users",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "native commands",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "cameras",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "web related attacks",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "infrastructure",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "air",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "active directory commands",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "event logs",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "laterally",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "email collection",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "influence operations",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "air traffic management",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "exchange web services",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "addresses",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "rtsp server",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "certipy",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "defense industry",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "trust relationships",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "powershell commands",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "geographic proximity",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "rdp",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "advanced techniques",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "operations",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "scheduled tasks",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "adexplorer.exe",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "roundcube cves",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "shell commands",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "ntds.dit",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "operating systems & Tools",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "characteristics",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "adjacent technologies",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "camera feeds",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "operations via threat",
+    "object": "ews queries",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "for via cloud",
+    "object": "rtsp describe",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "likely via malware",
+    "object": "masepie",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "likely via malware",
+    "object": "internet-facing",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "likely via malware",
+    "object": "operating systems & Tools",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "likely via malware",
+    "object": "data exfiltration & Security",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "likely via malware",
+    "object": "advanced techniques",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "to via devices",
+    "object": "operations",
+    "inferred": true
+  },
+  {
+    "subject": "credential access",
+    "predicate": "indirectly cve",
+    "object": "cve-2020-35730",
+    "inferred": true
+  },
+  {
+    "subject": "malware & Exploitation",
+    "predicate": "ranges from via",
+    "object": "folder permissions & Access Control",
+    "inferred": true
+  },
+  {
+    "subject": "malware & Exploitation",
+    "predicate": "ranges from via",
+    "object": "train schedules",
+    "inferred": true
+  },
+  {
+    "subject": "malware & Exploitation",
+    "predicate": "ranges from via",
+    "object": "government & Organizations",
+    "inferred": true
+  },
+  {
+    "subject": "malware & Exploitation",
+    "predicate": "ranges from via",
+    "object": "threat actors",
+    "inferred": true
+  },
+  {
+    "subject": "malware & Exploitation",
+    "predicate": "ranges from via",
+    "object": "sensitive information",
+    "inferred": true
+  },
+  {
+    "subject": "malware & Exploitation",
+    "predicate": "ranges from via",
+    "object": "shipping manifests",
+    "inferred": true
+  },
+  {
+    "subject": "malware & Exploitation",
+    "predicate": "ranges from via",
+    "object": "devices",
+    "inferred": true
+  },
+  {
+    "subject": "malware & Exploitation",
+    "predicate": "ranges from via",
+    "object": "cybersecurity vulnerabilities",
+    "inferred": true
+  },
+  {
+    "subject": "malware & Exploitation",
+    "predicate": "targets via transportation",
+    "object": "sea",
+    "inferred": true
+  },
+  {
+    "subject": "malware & Exploitation",
+    "predicate": "targets via transportation",
+    "object": "air",
+    "inferred": true
+  },
+  {
+    "subject": "malware & Exploitation",
+    "predicate": "including via masepie",
+    "object": "it entities",
+    "inferred": true
+  },
+  {
+    "subject": "malware & Exploitation",
+    "predicate": "moves laterally via",
+    "object": "rtsp describe",
+    "inferred": true
+  },
+  {
+    "subject": "malware & Exploitation",
+    "predicate": "uses via operating",
+    "object": "plaintext passwords",
+    "inferred": true
+  },
+  {
+    "subject": "malware & Exploitation",
+    "predicate": "indirectly uses",
+    "object": "group policy preferences",
+    "inferred": true
+  },
+  {
+    "subject": "malware & Exploitation",
+    "predicate": "uses via operating",
+    "object": "bat",
+    "inferred": true
+  },
+  {
+    "subject": "malware & Exploitation",
+    "predicate": "uses via operating",
+    "object": "vbscript",
+    "inferred": true
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "leading to via",
+    "object": "ip-geolocation",
+    "inferred": true
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "leading to via",
+    "object": "cloud email providers",
+    "inferred": true
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "leading to via",
+    "object": "transportation & Logistics",
+    "inferred": true
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "leading to via",
+    "object": "soho devices",
+    "inferred": true
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "leading to via",
+    "object": "tpps",
+    "inferred": true
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "leading to via",
+    "object": "government & Organizations",
+    "inferred": true
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "leading to via",
+    "object": "browser fingerprints",
+    "inferred": true
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "leading to via",
+    "object": "third-party services",
+    "inferred": true
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "leading to via",
+    "object": "government entities",
+    "inferred": true
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "leading to via",
+    "object": "characteristics",
+    "inferred": true
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "leading to via",
+    "object": "adjacent technologies",
+    "inferred": true
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "leading to via",
+    "object": "privacy & entities",
+    "inferred": true
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "leading to via",
+    "object": "cybersecurity vulnerabilities",
+    "inferred": true
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "deliver malware via",
+    "object": "credential access",
+    "inferred": true
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "deliver malware via",
+    "object": "transportation & Logistics",
+    "inferred": true
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "deliver malware via",
+    "object": "masepie",
+    "inferred": true
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "deliver malware via",
+    "object": "cloud & Infrastructure",
+    "inferred": true
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "deliver malware via",
+    "object": "internet-facing",
+    "inferred": true
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "deliver malware via",
+    "object": "operating systems & Tools",
+    "inferred": true
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "deliver malware via",
+    "object": "targeted entities",
+    "inferred": true
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "deliver malware via",
+    "object": "advanced techniques",
+    "inferred": true
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "include via network",
+    "object": "additional targets",
+    "inferred": true
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "include via network",
+    "object": "cybersecurity department",
+    "inferred": true
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "include via network",
+    "object": "startup folder",
+    "inferred": true
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "include via network",
+    "object": "malicious archive",
+    "inferred": true
+  },
+  {
+    "subject": "email related attacks",
+    "predicate": "include via network",
+    "object": "psexec",
+    "inferred": true
+  },
+  {
+    "subject": "cybersecurity vulnerabilities",
+    "predicate": "causes via malware",
+    "object": "credential access",
+    "inferred": true
+  },
+  {
+    "subject": "cybersecurity vulnerabilities",
+    "predicate": "causes via malware",
+    "object": "transportation & Logistics",
+    "inferred": true
+  },
+  {
+    "subject": "cybersecurity vulnerabilities",
+    "predicate": "causes via malware",
+    "object": "masepie",
+    "inferred": true
+  },
+  {
+    "subject": "cybersecurity vulnerabilities",
+    "predicate": "causes via malware",
+    "object": "cloud & Infrastructure",
+    "inferred": true
+  },
+  {
+    "subject": "cybersecurity vulnerabilities",
+    "predicate": "causes via malware",
+    "object": "internet-facing",
+    "inferred": true
+  },
+  {
+    "subject": "cybersecurity vulnerabilities",
+    "predicate": "causes via malware",
+    "object": "operating systems & Tools",
+    "inferred": true
+  },
+  {
+    "subject": "cybersecurity vulnerabilities",
+    "predicate": "causes via malware",
+    "object": "targeted entities",
+    "inferred": true
+  },
+  {
+    "subject": "cybersecurity vulnerabilities",
+    "predicate": "causes via malware",
+    "object": "data exfiltration & Security",
+    "inferred": true
+  },
+  {
+    "subject": "cybersecurity vulnerabilities",
+    "predicate": "causes via malware",
+    "object": "advanced techniques",
+    "inferred": true
+  },
+  {
+    "subject": "corporate vpn",
+    "predicate": "exploits via cybersecurity",
+    "object": "cve-2020-35730",
+    "inferred": true
+  },
+  {
+    "subject": "corporate vpn",
+    "predicate": "exploits via cybersecurity",
+    "object": "malware & Exploitation",
+    "inferred": true
+  },
+  {
+    "subject": "sql injection",
+    "predicate": "exploits via infrastructure",
+    "object": "government & Organizations",
+    "inferred": true
+  },
+  {
+    "subject": "sql injection",
+    "predicate": "exploits via infrastructure",
+    "object": "geographic proximity",
+    "inferred": true
+  },
+  {
+    "subject": "sql injection",
+    "predicate": "exploits via infrastructure",
+    "object": "captcha relaying",
+    "inferred": true
+  },
+  {
+    "subject": "brands",
+    "predicate": "abused via cybersecurity",
+    "object": "cve-2020-35730",
+    "inferred": true
+  },
+  {
+    "subject": "brands",
+    "predicate": "abused via cybersecurity",
+    "object": "malware & Exploitation",
+    "inferred": true
+  },
+  {
+    "subject": "models",
+    "predicate": "abused via devices",
+    "object": "operations",
+    "inferred": true
+  },
+  {
+    "subject": "devices",
+    "predicate": "facilitate via operations",
+    "object": "destruction",
+    "inferred": true
+  },
+  {
+    "subject": "devices",
+    "predicate": "facilitate via operations",
+    "object": "influence operations",
+    "inferred": true
+  },
+  {
+    "subject": "proxy malicious activity",
+    "predicate": "via via devices",
+    "object": "operations",
+    "inferred": true
+  },
+  {
+    "subject": "russian gru",
+    "predicate": "conducting via web",
+    "object": "ip-geolocation",
+    "inferred": true
+  },
+  {
+    "subject": "russian gru",
+    "predicate": "conducting via web",
+    "object": "cloud email providers",
+    "inferred": true
+  },
+  {
+    "subject": "russian gru",
+    "predicate": "conducting via web",
+    "object": "transportation & Logistics",
+    "inferred": true
+  },
+  {
+    "subject": "russian gru",
+    "predicate": "conducting via web",
+    "object": "soho devices",
+    "inferred": true
+  },
+  {
+    "subject": "russian gru",
+    "predicate": "conducting via web",
+    "object": "tpps",
+    "inferred": true
+  },
+  {
+    "subject": "russian gru",
+    "predicate": "conducting via web",
+    "object": "government & Organizations",
+    "inferred": true
+  },
+  {
+    "subject": "russian gru",
+    "predicate": "conducting via web",
+    "object": "browser fingerprints",
+    "inferred": true
+  },
+  {
+    "subject": "russian gru",
+    "predicate": "conducting via web",
+    "object": "third-party services",
+    "inferred": true
+  },
+  {
+    "subject": "russian gru",
+    "predicate": "conducting via web",
+    "object": "government entities",
+    "inferred": true
+  },
+  {
+    "subject": "russian gru",
+    "predicate": "conducting via web",
+    "object": "characteristics",
+    "inferred": true
+  },
+  {
+    "subject": "russian gru",
+    "predicate": "conducting via web",
+    "object": "adjacent technologies",
+    "inferred": true
+  },
+  {
+    "subject": "russian gru",
+    "predicate": "conducting via web",
+    "object": "privacy & entities",
+    "inferred": true
+  },
+  {
+    "subject": "russian gru",
+    "predicate": "conducting via web",
+    "object": "cybersecurity vulnerabilities",
+    "inferred": true
+  },
+  {
+    "subject": "blend",
+    "predicate": "employs via infrastructure",
+    "object": "government & Organizations",
+    "inferred": true
+  },
+  {
+    "subject": "blend",
+    "predicate": "employs via infrastructure",
+    "object": "geographic proximity",
+    "inferred": true
+  },
+  {
+    "subject": "blend",
+    "predicate": "employs via infrastructure",
+    "object": "captcha relaying",
+    "inferred": true
+  },
+  {
+    "subject": "tor",
+    "predicate": "includes via infrastructure",
+    "object": "government & Organizations",
+    "inferred": true
+  },
+  {
+    "subject": "tor",
+    "predicate": "includes via infrastructure",
+    "object": "geographic proximity",
+    "inferred": true
+  },
+  {
+    "subject": "tor",
+    "predicate": "includes via infrastructure",
+    "object": "captcha relaying",
+    "inferred": true
+  },
+  {
+    "subject": "commercial vpn",
+    "predicate": "includes via infrastructure",
+    "object": "government & Organizations",
+    "inferred": true
+  },
+  {
+    "subject": "commercial vpn",
+    "predicate": "includes via infrastructure",
+    "object": "geographic proximity",
+    "inferred": true
+  },
+  {
+    "subject": "commercial vpn",
+    "predicate": "includes via infrastructure",
+    "object": "captcha relaying",
+    "inferred": true
+  },
+  {
+    "subject": "infrastructure",
+    "predicate": "provides via government",
+    "object": "trust-level",
+    "inferred": true
+  },
+  {
+    "subject": "operating systems & Tools",
+    "predicate": "enumerates via cloud",
+    "object": "credential access",
+    "inferred": true
+  },
+  {
+    "subject": "operating systems & Tools",
+    "predicate": "enumerates via cloud",
+    "object": "rtsp describe",
+    "inferred": true
+  },
+  {
+    "subject": "operating systems & Tools",
+    "predicate": "enumerates via cloud",
+    "object": "transportation & Logistics",
+    "inferred": true
+  },
+  {
+    "subject": "operating systems & Tools",
+    "predicate": "facilitates via malware",
+    "object": "credential access",
+    "inferred": true
+  },
+  {
+    "subject": "operating systems & Tools",
+    "predicate": "facilitates via malware",
+    "object": "transportation & Logistics",
+    "inferred": true
+  },
+  {
+    "subject": "operating systems & Tools",
+    "predicate": "facilitates via malware",
+    "object": "masepie",
+    "inferred": true
+  },
+  {
+    "subject": "operating systems & Tools",
+    "predicate": "facilitates via malware",
+    "object": "internet-facing",
+    "inferred": true
+  },
+  {
+    "subject": "operating systems & Tools",
+    "predicate": "facilitates via malware",
+    "object": "targeted entities",
+    "inferred": true
+  },
+  {
+    "subject": "operating systems & Tools",
+    "predicate": "facilitates via malware",
+    "object": "data exfiltration & Security",
+    "inferred": true
+  },
+  {
+    "subject": "operating systems & Tools",
+    "predicate": "facilitates via malware",
+    "object": "advanced techniques",
+    "inferred": true
+  },
+  {
+    "subject": "roundcube cves",
+    "predicate": "includes via cybersecurity",
+    "object": "cve-2020-35730",
+    "inferred": true
+  },
+  {
+    "subject": "roundcube cves",
+    "predicate": "includes via cybersecurity",
+    "object": "malware & Exploitation",
+    "inferred": true
+  },
+  {
+    "subject": "network reconnaissance",
+    "predicate": "includes via malware",
+    "object": "credential access",
+    "inferred": true
+  },
+  {
+    "subject": "network reconnaissance",
+    "predicate": "includes via malware",
+    "object": "transportation & Logistics",
+    "inferred": true
+  },
+  {
+    "subject": "network reconnaissance",
+    "predicate": "includes via malware",
+    "object": "masepie",
+    "inferred": true
+  },
+  {
+    "subject": "network reconnaissance",
+    "predicate": "includes via malware",
+    "object": "cloud & Infrastructure",
+    "inferred": true
+  },
+  {
+    "subject": "network reconnaissance",
+    "predicate": "includes via malware",
+    "object": "internet-facing",
+    "inferred": true
+  },
+  {
+    "subject": "network reconnaissance",
+    "predicate": "includes via malware",
+    "object": "operating systems & Tools",
+    "inferred": true
+  },
+  {
+    "subject": "network reconnaissance",
+    "predicate": "includes via malware",
+    "object": "targeted entities",
+    "inferred": true
+  },
+  {
+    "subject": "network reconnaissance",
+    "predicate": "includes via malware",
+    "object": "data exfiltration & Security",
+    "inferred": true
+  },
+  {
+    "subject": "network reconnaissance",
+    "predicate": "includes via malware",
+    "object": "advanced techniques",
+    "inferred": true
+  },
+  {
+    "subject": "accessed files",
+    "predicate": "archived in via",
+    "object": "plaintext passwords",
+    "inferred": true
+  },
+  {
+    "subject": "accessed files",
+    "predicate": "archived in via",
+    "object": "group policy preferences",
+    "inferred": true
+  },
+  {
+    "subject": "accessed files",
+    "predicate": "archived in via",
+    "object": "cloud & Infrastructure",
+    "inferred": true
+  },
+  {
+    "subject": "accessed files",
+    "predicate": "archived in via",
+    "object": "bat",
+    "inferred": true
+  },
+  {
+    "subject": "accessed files",
+    "predicate": "archived in via",
+    "object": "vbscript",
+    "inferred": true
+  },
+  {
+    "subject": "accessed files",
+    "predicate": "archived in via",
+    "object": "malware & Exploitation",
+    "inferred": true
+  },
+  {
+    "subject": "variants",
+    "predicate": "includes via masepie",
+    "object": "it entities",
+    "inferred": true
+  },
+  {
+    "subject": "variants",
+    "predicate": "includes via masepie",
+    "object": "transportation & Logistics",
+    "inferred": true
+  },
+  {
+    "subject": "variants",
+    "predicate": "tied to via",
+    "object": "ip-geolocation",
+    "inferred": true
+  },
+  {
+    "subject": "variants",
+    "predicate": "tied to via",
+    "object": "cloud email providers",
+    "inferred": true
+  },
+  {
+    "subject": "variants",
+    "predicate": "tied to via",
+    "object": "transportation & Logistics",
+    "inferred": true
+  },
+  {
+    "subject": "variants",
+    "predicate": "tied to via",
+    "object": "soho devices",
+    "inferred": true
+  },
+  {
+    "subject": "variants",
+    "predicate": "tied to via",
+    "object": "tpps",
+    "inferred": true
+  },
+  {
+    "subject": "variants",
+    "predicate": "tied to via",
+    "object": "government & Organizations",
+    "inferred": true
+  },
+  {
+    "subject": "variants",
+    "predicate": "tied to via",
+    "object": "browser fingerprints",
+    "inferred": true
+  },
+  {
+    "subject": "variants",
+    "predicate": "tied to via",
+    "object": "third-party services",
+    "inferred": true
+  },
+  {
+    "subject": "variants",
+    "predicate": "tied to via",
+    "object": "government entities",
+    "inferred": true
+  },
+  {
+    "subject": "variants",
+    "predicate": "tied to via",
+    "object": "characteristics",
+    "inferred": true
+  },
+  {
+    "subject": "variants",
+    "predicate": "tied to via",
+    "object": "adjacent technologies",
+    "inferred": true
+  },
+  {
+    "subject": "variants",
+    "predicate": "tied to via",
+    "object": "privacy & entities",
+    "inferred": true
+  },
+  {
+    "subject": "variants",
+    "predicate": "tied to via",
+    "object": "cybersecurity vulnerabilities",
+    "inferred": true
+  },
+  {
+    "subject": "variants",
+    "predicate": "indirectly includes",
+    "object": "credential access",
+    "inferred": true
+  },
+  {
+    "subject": "variants",
+    "predicate": "includes via cloud",
+    "object": "rtsp describe",
+    "inferred": true
+  },
+  {
+    "subject": "variants",
+    "predicate": "includes via cloud",
+    "object": "transportation & Logistics",
+    "inferred": true
+  },
+  {
+    "subject": "variants",
+    "predicate": "includes via malware",
+    "object": "credential access",
+    "inferred": true
+  },
+  {
+    "subject": "variants",
+    "predicate": "includes via malware",
+    "object": "transportation & Logistics",
+    "inferred": true
+  },
+  {
+    "subject": "variants",
+    "predicate": "includes via malware",
+    "object": "internet-facing",
+    "inferred": true
+  },
+  {
+    "subject": "variants",
+    "predicate": "includes via malware",
+    "object": "operating systems & Tools",
+    "inferred": true
+  },
+  {
+    "subject": "variants",
+    "predicate": "includes via malware",
+    "object": "targeted entities",
+    "inferred": true
+  },
+  {
+    "subject": "variants",
+    "predicate": "includes via malware",
+    "object": "data exfiltration & Security",
+    "inferred": true
+  },
+  {
+    "subject": "variants",
+    "predicate": "includes via malware",
+    "object": "advanced techniques",
+    "inferred": true
+  },
+  {
+    "subject": "masepie",
+    "predicate": "targets via transportation",
+    "object": "sea",
+    "inferred": true
+  },
+  {
+    "subject": "masepie",
+    "predicate": "targets via transportation",
+    "object": "air",
+    "inferred": true
+  },
+  {
+    "subject": "cloud & Infrastructure",
+    "predicate": "includes via credential",
+    "object": "folder permissions & Access Control",
+    "inferred": true
+  },
+  {
+    "subject": "cloud & Infrastructure",
+    "predicate": "includes via credential",
+    "object": "train schedules",
+    "inferred": true
+  },
+  {
+    "subject": "cloud & Infrastructure",
+    "predicate": "includes via credential",
+    "object": "government & Organizations",
+    "inferred": true
+  },
+  {
+    "subject": "cloud & Infrastructure",
+    "predicate": "includes via credential",
+    "object": "threat actors",
+    "inferred": true
+  },
+  {
+    "subject": "cloud & Infrastructure",
+    "predicate": "includes via credential",
+    "object": "sensitive information",
+    "inferred": true
+  },
+  {
+    "subject": "cloud & Infrastructure",
+    "predicate": "includes via credential",
+    "object": "targeted entities",
+    "inferred": true
+  },
+  {
+    "subject": "cloud & Infrastructure",
+    "predicate": "includes via credential",
+    "object": "shipping manifests",
+    "inferred": true
+  },
+  {
+    "subject": "cloud & Infrastructure",
+    "predicate": "includes via credential",
+    "object": "malware & Exploitation",
+    "inferred": true
+  },
+  {
+    "subject": "cloud & Infrastructure",
+    "predicate": "includes via credential",
+    "object": "devices",
+    "inferred": true
+  },
+  {
+    "subject": "cloud & Infrastructure",
+    "predicate": "includes via credential",
+    "object": "cybersecurity vulnerabilities",
+    "inferred": true
+  },
+  {
+    "subject": "cloud & Infrastructure",
+    "predicate": "targets via transportation",
+    "object": "sea",
+    "inferred": true
+  },
+  {
+    "subject": "cloud & Infrastructure",
+    "predicate": "targets via transportation",
+    "object": "air",
+    "inferred": true
+  },
+  {
+    "subject": "ews queries",
+    "predicate": "collects via email",
+    "object": "recipient",
+    "inferred": true
+  },
+  {
+    "subject": "ews queries",
+    "predicate": "collects via email",
+    "object": "web related attacks",
+    "inferred": true
+  },
+  {
+    "subject": "ews queries",
+    "predicate": "collects via email",
+    "object": "native language",
+    "inferred": true
+  },
+  {
+    "subject": "ews queries",
+    "predicate": "collects via email",
+    "object": "malware & Exploitation",
+    "inferred": true
+  },
+  {
+    "subject": "ews queries",
+    "predicate": "collects via email",
+    "object": "network reconnaissance",
+    "inferred": true
+  },
+  {
+    "subject": "ews queries",
+    "predicate": "collects via email",
+    "object": "data exfiltration & Security",
+    "inferred": true
+  },
+  {
+    "subject": "request",
+    "predicate": "includes via credential",
+    "object": "folder permissions & Access Control",
+    "inferred": true
+  },
+  {
+    "subject": "request",
+    "predicate": "includes via credential",
+    "object": "train schedules",
+    "inferred": true
+  },
+  {
+    "subject": "request",
+    "predicate": "includes via credential",
+    "object": "transportation & Logistics",
+    "inferred": true
+  },
+  {
+    "subject": "request",
+    "predicate": "includes via credential",
+    "object": "government & Organizations",
+    "inferred": true
+  },
+  {
+    "subject": "request",
+    "predicate": "includes via credential",
+    "object": "threat actors",
+    "inferred": true
+  },
+  {
+    "subject": "request",
+    "predicate": "includes via credential",
+    "object": "cloud & Infrastructure",
+    "inferred": true
+  },
+  {
+    "subject": "request",
+    "predicate": "includes via credential",
+    "object": "sensitive information",
+    "inferred": true
+  },
+  {
+    "subject": "request",
+    "predicate": "includes via credential",
+    "object": "targeted entities",
+    "inferred": true
+  },
+  {
+    "subject": "request",
+    "predicate": "includes via credential",
+    "object": "shipping manifests",
+    "inferred": true
+  },
+  {
+    "subject": "request",
+    "predicate": "includes via credential",
+    "object": "malware & Exploitation",
+    "inferred": true
+  },
+  {
+    "subject": "request",
+    "predicate": "includes via credential",
+    "object": "devices",
+    "inferred": true
+  },
+  {
+    "subject": "request",
+    "predicate": "includes via credential",
+    "object": "cybersecurity vulnerabilities",
+    "inferred": true
+  },
+  {
+    "subject": "cybersecurity department",
+    "predicate": "related to",
+    "object": "cybersecurity vulnerabilities",
+    "inferred": true
+  },
+  {
+    "subject": "it entities",
+    "predicate": "related to",
+    "object": "privacy & entities",
+    "inferred": true
+  },
+  {
+    "subject": "it entities",
+    "predicate": "related to",
+    "object": "government entities",
+    "inferred": true
+  },
+  {
+    "subject": "it entities",
+    "predicate": "related to",
+    "object": "geographic & Political Entities",
+    "inferred": true
+  },
+  {
+    "subject": "it entities",
+    "predicate": "related to",
+    "object": "targeted entities",
+    "inferred": true
+  },
+  {
+    "subject": "threat actors",
+    "predicate": "is type of",
+    "object": "tor",
+    "inferred": true
+  },
+  {
+    "subject": "active directory commands",
+    "predicate": "related to",
+    "object": "powershell commands",
+    "inferred": true
+  },
+  {
+    "subject": "active directory commands",
+    "predicate": "is type of",
+    "object": "tor",
+    "inferred": true
+  },
+  {
+    "subject": "active directory commands",
+    "predicate": "related to",
+    "object": "native commands",
+    "inferred": true
+  },
+  {
+    "subject": "active directory commands",
+    "predicate": "related to",
+    "object": "shell commands",
+    "inferred": true
+  },
+  {
+    "subject": "soho devices",
+    "predicate": "relates to",
+    "object": "devices",
+    "inferred": true
+  },
+  {
+    "subject": "cloud email providers",
+    "predicate": "relates to",
+    "object": "email collection",
+    "inferred": true
+  },
+  {
+    "subject": "email collection",
+    "predicate": "related to",
+    "object": "email related attacks",
+    "inferred": true
+  },
+  {
+    "subject": "cloud email providers",
+    "predicate": "relates to",
+    "object": "email related attacks",
+    "inferred": true
+  },
+  {
+    "subject": "cloud email providers",
+    "predicate": "related to",
+    "object": "cloud & Infrastructure",
+    "inferred": true
+  },
+  {
+    "subject": "powershell commands",
+    "predicate": "related to",
+    "object": "native commands",
+    "inferred": true
+  },
+  {
+    "subject": "powershell commands",
+    "predicate": "related to",
+    "object": "shell commands",
+    "inferred": true
+  },
+  {
+    "subject": "geographic proximity",
+    "predicate": "related to",
+    "object": "geographic & Political Entities",
+    "inferred": true
+  },
+  {
+    "subject": "privacy & entities",
+    "predicate": "related to",
+    "object": "government entities",
+    "inferred": true
+  },
+  {
+    "subject": "privacy & entities",
+    "predicate": "related to",
+    "object": "geographic & Political Entities",
+    "inferred": true
+  },
+  {
+    "subject": "privacy & entities",
+    "predicate": "related to",
+    "object": "targeted entities",
+    "inferred": true
+  },
+  {
+    "subject": "rtsp describe",
+    "predicate": "related to",
+    "object": "rtsp server",
+    "inferred": true
+  },
+  {
+    "subject": "exchange modification",
+    "predicate": "related to",
+    "object": "exchange web services",
+    "inferred": true
+  },
+  {
+    "subject": "logistics sector victims",
+    "predicate": "is type of",
+    "object": "tor",
+    "inferred": true
+  },
+  {
+    "subject": "exchange web services",
+    "predicate": "related to",
+    "object": "third-party services",
+    "inferred": true
+  },
+  {
+    "subject": "exchange web services",
+    "predicate": "related to",
+    "object": "it services",
+    "inferred": true
+  },
+  {
+    "subject": "additional targets",
+    "predicate": "is type of",
+    "object": "target",
+    "inferred": true
+  },
+  {
+    "subject": "government & Organizations",
+    "predicate": "related to",
+    "object": "government entities",
+    "inferred": true
+  },
+  {
+    "subject": "startup folder",
+    "predicate": "relates to",
+    "object": "folder permissions & Access Control",
+    "inferred": true
+  },
+  {
+    "subject": "cloud & Infrastructure",
+    "predicate": "relates to",
+    "object": "infrastructure",
+    "inferred": true
+  },
+  {
+    "subject": "ip-geolocation",
+    "predicate": "is type of",
+    "object": "geolocation",
+    "inferred": true
+  },
+  {
+    "subject": "transportation & Logistics",
+    "predicate": "relates to",
+    "object": "logistics sector victims",
+    "inferred": true
+  },
+  {
+    "subject": "air traffic management",
+    "predicate": "relates to",
+    "object": "traffic cams",
+    "inferred": true
+  },
+  {
+    "subject": "targeted entities",
+    "predicate": "is type of",
+    "object": "target",
+    "inferred": true
+  },
+  {
+    "subject": "native commands",
+    "predicate": "related to",
+    "object": "shell commands",
+    "inferred": true
+  },
+  {
+    "subject": "native commands",
+    "predicate": "related to",
+    "object": "native language",
+    "inferred": true
+  },
+  {
+    "subject": "data exfiltration & Security",
+    "predicate": "relates to",
+    "object": "security frameworks & Methodologies",
+    "inferred": true
+  },
+  {
+    "subject": "third-party services",
+    "predicate": "related to",
+    "object": "it services",
+    "inferred": true
+  },
+  {
+    "subject": "government entities",
+    "predicate": "related to",
+    "object": "geographic & Political Entities",
+    "inferred": true
+  },
+  {
+    "subject": "government entities",
+    "predicate": "related to",
+    "object": "targeted entities",
+    "inferred": true
+  },
+  {
+    "subject": "proxy malicious activity",
+    "predicate": "relates to",
+    "object": "malicious archive",
+    "inferred": true
+  },
+  {
+    "subject": "geographic & Political Entities",
+    "predicate": "related to",
+    "object": "targeted entities",
+    "inferred": true
+  }
+]
